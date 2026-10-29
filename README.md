@@ -220,8 +220,8 @@ npm run build
 
 <div align="center">
 
-**Built with 🔧 by [Madhan Kumar T](https://github.com/Madhan310301)**  
-**Built with 🔧 by [Dharshini K](https://github.com/dharshinik07)**
+**Built with 🔧 by [Madhan Kumar T](https://github.com/Madhan310301) And [Dharshini K](https://github.com/dharshinik07)**  
+
 *B.Tech Computer Science Engineering · BIHER, Chennai*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
