@@ -7,7 +7,7 @@ import type { MachineStatus } from "../shared/schema";
 let simulationInterval: NodeJS.Timeout | null = null;
 let tickCount = 0;
 
-export async function registerRoutes(server: Server, app: Express): Promise<Server> {
+export async function registerRoutes(server: Server | null, app: Express): Promise<Server | null> {
 
   // ============ MACHINES ============
 
